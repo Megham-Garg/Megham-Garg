@@ -25,15 +25,16 @@
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megham-garg&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megham-Garg&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Megham-Garg/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Megham-garg&show_icons=true&locale=en&theme=radical" alt="Megham-garg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Megham-Garg&show_icons=true&locale=en&theme=radical" alt="Megham-Garg" /></p>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/megham-garg/" target="_blank" rel="noopener noreferrer"><img src="<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/meghamgarg/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.kaggle.com/meghamgarg" target="_blank" rel="noopener noreferrer"><img src="<img src="https://img.icons8.com/windows/32/000000/kaggle.png"/>" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/megham-garg/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:gargmegham3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+
 </p>
