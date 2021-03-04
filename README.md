@@ -25,7 +25,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megham-garg&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/megham-garg/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megham-garg&theme=tokyonight)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Megham-garg&show_icons=true&locale=en&theme=radical" alt="Megham-garg" /></p>
 
