@@ -3,13 +3,13 @@
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=Megham-garg" alt="Megham" /> </p>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently a full stack web developer and a data scientist in Paxcom.
+- 🔭 &nbsp; I’m currently a full stack developer in Paxcom.
 - 📎  &nbsp; Contributing actively to [Hub](https://github.com/Megham-Garg/Megham-Garg/). 
-- 🔎 &nbsp; Researching in the field of NLP and Computer Science.
+- 🔎 &nbsp; Researching in the field of NLP and Web development.
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, ML and Mathematics.
-- 💼 &nbsp; full stack developer.
-- 🌱 &nbsp; Next want to work on AR.
+- 🎓 &nbsp; Studying NLP, ML and Computer Science.
+- 💼 &nbsp; Full Stack Developer.
+- 🌱 &nbsp; Next i want to work on AR.
 - ✍️ &nbsp; Love participating in data science competitions, and coding competitions.
 - ✨ &nbsp; Out of work, find me trading, and building businesses.
 - ☕ &nbsp; I believe, a walk outside can be the ultimate solution for any stress.
@@ -20,13 +20,12 @@
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Django | React.js
 - 🐍 &nbsp; Selenium | Scikit-learn | NLTK | Keras | Spacy | Matplotlib | Hub
 - ☁ &nbsp; Netlify | Python Anyehere
-- 🔧 &nbsp; Github | Visual Studio code | Eclipse | Anaconda | Git | Sublime 
+- 🔧 &nbsp; Github | Visual Studio code | Anaconda | Git | Sublime 
 - 🔎 &nbsp; MongoDB | PostgreSQL
-- 
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megham-garg&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/sohamsshah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megham-garg&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/megham-garg/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Megham-garg&show_icons=true&locale=en&theme=radical" alt="Megham-garg" /></p>
 
