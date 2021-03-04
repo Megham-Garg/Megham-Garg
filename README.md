@@ -19,8 +19,8 @@
 - 💻 &nbsp; Python | Javascript | C++
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Django | React.js
 - 🐍 &nbsp; Selenium | Scikit-learn | NLTK | Keras | Spacy | Matplotlib | Hub
-- ☁ &nbsp; Netlify | Python Anyehere
-- 🔧 &nbsp; Github | Visual Studio code | Anaconda | Git | Sublime 
+- ☁ &nbsp; Netlify | Python Anyehere | Colab
+- 🔧 &nbsp; Github | Visual Studio code | Anaconda | Git | Sublime | Jupyter Notebook
 - 🔎 &nbsp; MongoDB | PostgreSQL
 
 </br>
