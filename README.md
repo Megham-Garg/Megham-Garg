@@ -24,12 +24,6 @@
 - 🔎 &nbsp; MongoDB | PostgreSQL
 
 </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Megham-Garg&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Megham-Garg/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Megham-Garg&show_icons=true&locale=en&theme=radical" alt="Megham-Garg" /></p>
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
